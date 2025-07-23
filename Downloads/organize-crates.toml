@@ -1,0 +1,121 @@
+
+
+                                                                 #####
+                                                                #######
+                   #                                            ##O#O##
+  ######          ###                                           #VVVVV#
+    ##             #                                          ##  VVV  ##
+    ##         ###    ### ####   ###    ###  ##### #####     #          ##
+    ##        #  ##    ###    ##  ##     ##    ##   ##      #            ##
+    ##       #   ##    ##     ##  ##     ##      ###        #            ###
+    ##          ###    ##     ##  ##     ##      ###       QQ#           ##Q
+    ##       # ###     ##     ##  ##     ##     ## ##    QQQQQQ#       #QQQQQQ
+    ##      ## ### #   ##     ##  ###   ###    ##   ##   QQQQQQQ#     #QQQQQQQ
+  ############  ###   ####   ####   #### ### ##### #####   QQQQQ#######QQQQQ
+
+
+# Generated on: 2025-07-20 22:25:53
+
+[directory]
+name = "organize-crates"
+total_files = 11
+total_directories = 0
+total_size_bytes = 53636
+inventory_date = "2025-07-20 22:25:52"
+
+[hashes]
+# Main hashes
+kangaroo12 = "ed7c6cd13b0184b4ce9498e5465f92d51e641f5492c24717f416c5aee670931e"
+blake3 = "6860f0174c45f4f4e791dd8f5e27500492dbd8f70e273b24514d403a925913b3"
+sha3_256 = "0fcb3898b9df68bd55103d3991c7b14dece7b41963b64a54b5a0785cdcffdf3c"
+blake2b = "0b0d765b0222cee97e243154b5f6bbd0655607b9890f1fe29043514504e8b67e"
+sha512 = "b62708bf1dedccf950def67572b8707846973bc52d66f1f87ff3cddc417cd717dc0ecf2dbd987412ca62495a9b8b2b43e07610956d489c5270f1be322094b1e8"
+
+# Less common checksums
+whirlpool = "5a3d158d23825c1e785c0627ade5f58a706e9a28c215a68c4ea643e21b826f55569b88f89db8f5c636d8e74d9cd087b74597a23d1f7cf2f311392d7c4f5a2dc3"
+ripemd160 = "cf4413b29f74cea473cc20e67ddbfd1c04baf31d"
+xxh3 = "1204ffbd0482b349"
+
+# Additional hashes
+sha256 = "f76901ea98cac3e6d173a69d2eaeed68a133687be3ac10d1710b505ae0095d71"
+xxhash64 = "1be1d88cce9e79e1"
+murmur3 = "39c4a55a4ee1a5546c4a9cb2931871d2"
+
+[signature]
+gpg_key_id = "0xC48C82843351B465"
+gpg_signature = "-----BEGIN PGP SIGNATURE-----
+
+xA0DAAgBxIyChDNRtGUBy+l0AAAAAABEaXJlY3Rvcnk6IC9ob21lL2hlcmIvcG9y
+dGZvbGlvLW1hc3Rlci9wb3J0Zm9saW8vc3JjL3NoYXJlZC9wcm9qZWN0cy9vcmdh
+bml6ZS1jcmF0ZXMKU0hBMjU2OiBmNzY5MDFlYTk4Y2FjM2U2ZDE3M2E2OWQyZWFl
+ZWQ2OGExMzM2ODdiZTNhYzEwZDE3MTBiNTA1YWUwMDk1ZDcxClNIQTUxMjogYjYy
+NzA4YmYxZGVkY2NmOTUwZGVmNjc1NzJiODcwNzg0Njk3M2JjNTJkNjZmMWY4N2Zm
+M2NkZGM0MTdjZDcxN2RjMGVjZjJkYmQ5ODc0MTJjYTYyNDk1YTliOGIyYjQzZTA3
+NjEwOTU2ZDQ4OWM1MjcwZjFiZTMyMjA5NGIxZTgKQkxBS0UyYjogMGIwZDc2NWIw
+MjIyY2VlOTdlMjQzMTU0YjVmNmJiZDA2NTU2MDdiOTg5MGYxZmUyOTA0MzUxNDUw
+NGU4YjY3ZQpCTEFLRTM6IDY4NjBmMDE3NGM0NWY0ZjRlNzkxZGQ4ZjVlMjc1MDA0
+OTJkYmQ4ZjcwZTI3M2IyNDUxNGQ0MDNhOTI1OTEzYjMKU0hBMy0yNTY6IDBmY2Iz
+ODk4YjlkZjY4YmQ1NTEwM2QzOTkxYzdiMTRkZWNlN2I0MTk2M2I2NGE1NGI1YTA3
+OOg1Y2RjZmZkZjNjCkthbmdhcm9vVHdlbHZlOiBlZDdjNmNkMTNiMDE4NGI0Y2U5
+NDk4ZTU0NjVmOTJkNTFlNjQxZjU0OTJjMjQ3MTdmNDE2YzVhZWU2NzA5MzFlCldo
+aXJscG9vbDogNWEzZDE1OGQyMzgyNWMxZTc4NWMwNjI3YWRlNWY1OGE3MDZlOWEy
+OGMyMTVhNjhjNGVhNjQzZTIxYjgyNmY1NTU2OWI4OGY4OWRiOGY1YzYzNmQ4ZTc0
+ZDljZDA4N2I3NDU5N2EyM2QxZjdjZjJmMzExMzkyZDdjNGY1YTJkYzMKUklQRU1E
+LTE2MDogY2Y0NDEzYjI5Zjc052NlYTQ3M2NjMjBlNjdkZGJmZDFjMDRiYWYzMWQK
+WFhIMzogMTIwNGZmYmQwNDgyYjM0OQpYWEhhc2g2NDogMWJlMWQ4OGNjZTllNzll
+MQpNdXJtdXIzOiAzOWM0YTU1YTRlZTFhNTU0NmM0YTljYjI5MzE4NzFkMgpUaW1l
+c3Rh5G1wOiAyMDI1LTA3LTIwVDLjMjoyNTo1M1oAwsBcBAABCAAQBQJofWzxCRDE
+jIKEM1G0ZQAAv34IADuThC0TMiCKbHABlZouyiD2ADTod07gAz0cIuYmJXUAar/H
+REwzbTxpH75M82XeXhBgMCdLWDDFsEV0V5f4V52kOxkmbNEyNub48+uV9zsxICwP
+9fqoDW2Fo9ylTDnh7ibEIDA9Aekbj2oDJ+TFLmmMvGZP13tx2Q0pxjo1xCr9yzJd
+JDYwMKO3vrHfZJDx9pY7dHbar1Tc3Yb4d5vR+BjoT8bMORPRAnjbrJATFawUIweP
+TmjOLuO8ORZcAuFouuv4bUDQWgryAg9SnMh7Va4U+4B276P+HvBa0hHWBnI/8pFt
+OdCQDXpzWhCjJ0bEEEExgLwPSGx2FDI2elgDpKg=
+=rsD3
+-----END PGP SIGNATURE-----"
+
+[files]
+[files."new_organize.bat"]
+size = 2614
+modified = "2025-06-06 05:24:58"
+
+[files."organize_crates.bat"]
+size = 2793
+modified = "2025-06-06 05:24:58"
+
+[files."organize_crates.py"]
+size = 8855
+modified = "2025-06-06 05:24:58"
+
+[files."organize_crates_README.md"]
+size = 4374
+modified = "2025-06-06 05:24:58"
+
+[files."organize_metadata.bat"]
+size = 3107
+modified = "2025-06-06 05:24:58"
+
+[files."organize_metadata.go"]
+size = 12333
+modified = "2025-06-06 05:24:58"
+
+[files."organize_metadata.py"]
+size = 6734
+modified = "2025-06-06 05:24:58"
+
+[files."organize_metadata_README.md"]
+size = 3730
+modified = "2025-06-06 05:24:58"
+
+[files."organize_metadata_go.bat"]
+size = 3546
+modified = "2025-06-06 05:24:58"
+
+[files."organize_metadata_go_README.md"]
+size = 4545
+modified = "2025-06-06 05:24:58"
+
+[files."test_organize.bat"]
+size = 1005
+modified = "2025-06-06 05:24:58"
+
